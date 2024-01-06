@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @taranjitkaurmee
 
-<!--
 - 👀 I’m interested in handling solving the world's problem with Data
 - 🌱 I’m currently learning MLOps and Deep Learning
 - 📫 **Hire me:** 
@@ -8,7 +7,6 @@
   - LinkedIn: [Taranjit Kaur](https://www.linkedin.com/in/taranjitkaurme/)
 - 🔗 **General Python Skills:** [Python Practice](https://github.com/taranjitkaurmee/datascience_practice_python)
 - 🔗 **General Data Science Skills:** [Data Science Practice](https://github.com/taranjitkaurmee/datascience_practice_general)
--->
 
 
 <!--
