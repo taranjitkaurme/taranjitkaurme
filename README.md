@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @taranjitkaurmee
+# 👋 Hi, I’m @taranjitkaurme
 
 ## About Me
 
