@@ -1,18 +1,52 @@
 # 👋 Hi, I’m @taranjitkaurme
 
-## About Me
+## 🚀 About Me  
 
-- 📊 **Data Visualization Expert**: With 8 years in the field, I've honed my skills in translating complex data into compelling visual stories, making information accessible and understandable.
-- 🤖 **Machine Learning Enthusiast**: I'm currently exploring the realms of machine learning, MLOps and Deep Learning eager to blend my visualization expertise with ML techniques.
-- 💡 **Lifelong Learner**: Passionate about continuous learning and applying new insights to solve real-world problems qith Data.
-  
+I’m a **Data Scientist & BI Strategist** with **10+ years across Finance, Automotive, and E-commerce**, currently focused on **Agentic AI, LLM workflows, and MLOps**.  
+
+I specialize in turning complex business problems into **data-driven, production-ready solutions**—from analytics to deployment.  
+
+### 💼 What I do  
+- 📊 **Business Intelligence & Analytics** (8+ yrs)  
+- 🤖 **Applied Machine Learning** (classification, segmentation, prediction models)  
+- 🧠 **GenAI & LLM experimentation**
+- 📦 **End-to-end data pipelines (SQL, Python, Databricks, CI/CD)**
+- 🧩 **Converting analytics into business value & decisions**  
+
+
+### 🔥 My current focus
+- LLMOps & MLOps  
+- Agentic AI workflows  
+- Retrieval-augmented pipelines (RAG)  
+- GenAI inside enterprise workflows 
+
+
+## 📚 Always Learning  
+I’m currently deep-diving into:
+- Agentic architectures  
+- LLM retrieval (embeddings)
+- MLOps deployment workflows  
+- Responsible AI inside enterprise systems  
+
+<!-- Future repos:
+- RAG project
+- GenAI pricing automation
+- Personal AI agent system
+-->
+
+---
+
+## 🤝 Let’s Connect  
+I love connecting with people working in **AI systems, agentic workflows, ML platforms, and enterprise AI transformation**.  
+
+If that sounds like you — reach out!  
+
+---
+
 - 📫 **Connect with Me:** I love connecting with fellow data enthusiasts and learners. Feel free to reach out!
   
   - Mail: taranjitkaur.in@outlook.com
   - LinkedIn: [Taranjit Kaur](https://www.linkedin.com/in/taranjitkaurme/)
-
-- 🔗 **General Python Skills:** [Python Practice](https://github.com/taranjitkaurmee/datascience_practice_python)
-- 🔗 **General Data Science Skills:** [Data Science Practice](https://github.com/taranjitkaurmee/datascience_practice_general)
 
 
 <!--
